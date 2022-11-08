@@ -24,3 +24,5 @@ To find the distance:
 The distance represents the error between the line y = m*x + b and the point given.
 
 
+
+
